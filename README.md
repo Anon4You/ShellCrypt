@@ -2,7 +2,7 @@ ShellCrypt 🔐
 
 Professional code obfuscation tool for Bash and Python scripts.
 
-![Shellcrypt](Shellcrypt.jpg)
+![Shellcrypt](shellcrypt.jpg)
 
 Features
 
@@ -55,4 +55,4 @@ Dependencies
 
 Note: For basic obfuscation purposes. Always verify decoded scripts before execution.
 
-MIT License • https://github.com/Anon4You/ShellCrypt
+MIT License • [Licence](LICENSE)
