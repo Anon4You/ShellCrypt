@@ -1,10 +1,10 @@
-ShellCrypt 🔐
+# ShellCrypt 🔐
 
 Professional code obfuscation tool for Bash and Python scripts.
 
 ![Shellcrypt](shellcrypt.jpg)
 
-Features
+## Features
 
 · Dual Language: Obfuscate/decode Bash & Python scripts
 · Auto-detection: Smart file type recognition
@@ -29,10 +29,10 @@ If you have added the **TermuxVoid Repository**, you can install the tool using 
 1. Add the TermuxVoid Repository: [TermuxVoid Repository](https://github.com/termuxvoid)
 2. Install the shellcrypt tool:
    ```bash
-   apt install shellcrypt
+   apt install shellcrypt -y
    ```
 
-Usage
+### Usage
 
 ```bash
 # Obfuscate (creates script_ob.sh)
@@ -45,7 +45,7 @@ Usage
 ./shellcrypt.sh script.py -O protected.py
 ```
 
-Dependencies
+### Dependencies
 
 · bash-obfuscate (Node.js)
 · emojify (Python)
